@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.err {
+  background-color: rgb(255, 147, 147);
+}
+
+.ok {
+  background-color: rgb(103, 255, 169);
+}
