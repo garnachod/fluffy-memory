@@ -21,8 +21,12 @@ class Home extends React.Component {
     reader.readAsText(event.target.files[0]);
   }
   getExam() {
-    const listItems = this.state.json["preguntas"]?.map((question) =>
-      <Question question={question}/>
+    let questions = this.state.json["preguntas"];
+    if (questions === undefined) {
+      questions = this.state.json.result?.["preguntas"];
+    }
+    const listItems = questions?.map((question) =>
+      <Question key={question.id} question={question}/>
     );
 
     return (

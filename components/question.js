@@ -5,7 +5,7 @@ import ResponseButton from './response_button';
 class Question extends Component {
     getResponse() {
         const listItems = this.props.question.respuestas.map((response) =>
-          <li><ResponseButton response={response}/></li>
+          <li key={response.id}><ResponseButton response={response}/></li>
         );
     
         return (
@@ -13,8 +13,8 @@ class Question extends Component {
         )
       }
     render() {
-        return (
-      <div class="question">
+      return (
+      <div className="question">
           <p>
           {this.props.question.enunciado}
           </p>
