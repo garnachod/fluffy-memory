@@ -10,6 +10,9 @@ class ResponseButton extends Component {
     }
     handleClick(event) {
         this.setState({clicked: true});
+        if (this.props.response.correcta == "1") {
+         this.props.updateIsCorrect();
+        }
     }
     getClass() {
         if (this.state.clicked && this.props.response.correcta == "1") {

@@ -1,0 +1,1318 @@
+{
+  "code": 200,
+  "message": "get_alumno_tests_id",
+  "result": {
+    "test": {
+      "id": "3942",
+      "nombre": "EE 11 Empleados públicos (1v) 1",
+      "duracion": "30",
+      "n_preguntas": "50",
+      "n_vueltas": "1",
+      "tipo": "normal",
+      "habilitado": "1"
+    },
+    "notaMedia": 6,
+    "preguntas": [
+      {
+        "id": "22379",
+        "enunciado": "<p>Aquellas personas que desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales, son:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\"><span style=\"color: #ff0000;\"><strong>Artículo 8. Concepto y clases de empleados públicos.</strong></span></p>\r\n<p class=\"parrafo\">1. Son empleados públicos quienes desempeñan funciones retribuidas en las Administraciones Públicas al servicio de los intereses generales.</p>\r\n<p class=\"parrafo\">2. Los empleados públicos se clasifican en:</p>\r\n<p class=\"parrafo_2\">a) Funcionarios de carrera.</p>\r\n<p class=\"parrafo\">b) Funcionarios interinos.</p>\r\n<p class=\"parrafo\">c) Personal laboral, ya sea fijo, por tiempo indefinido o temporal.</p>\r\n<p class=\"parrafo\">d) Personal eventual.</p>",
+        "respuestas": [
+          {
+            "id": "42966",
+            "pregunta_id": "22379",
+            "respuesta": "Personal laboral.",
+            "correcta": "0"
+          },
+          {
+            "id": "42967",
+            "pregunta_id": "22379",
+            "respuesta": "Personal interino.",
+            "correcta": "0"
+          },
+          {
+            "id": "42965",
+            "pregunta_id": "22379",
+            "respuesta": "Empleado público.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22381",
+        "enunciado": "<p>El funcionario:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\">Artículo 9. Funcionarios de carrera.</p>\r\n<p class=\"parrafo\">1. Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.</p>\r\n<p class=\"parrafo\">2. En todo caso, el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas corresponden exclusivamente a los funcionarios públicos, en los términos que en la ley de desarrollo de cada Administración Pública se establezca.</p>",
+        "respuestas": [
+          {
+            "id": "42973",
+            "pregunta_id": "22381",
+            "respuesta": "no hay respuesta correcta.",
+            "correcta": "0"
+          },
+          {
+            "id": "42972",
+            "pregunta_id": "22381",
+            "respuesta": "tiene con la Administración una relación contractual.",
+            "correcta": "0"
+          },
+          {
+            "id": "42971",
+            "pregunta_id": "22381",
+            "respuesta": "tiene con la Administración una relación estatutaria.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22382",
+        "enunciado": "<p>El régimen general del empleo público es:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>El Estatuto Básico del Empleado Público contiene aquello que es común al conjunto de los funcionarios de todas las Administraciones Públicas, más las normas legales específicas aplicables al personal laboral a su servicio. Partiendo del principio constitucional de que el régimen general del empleo público en nuestro país es el <strong>funcionarial</strong>, reconoce e integra la evidencia del papel creciente que en el conjunto de Administraciones Públicas viene desempeñando la contratación de personal conforme a la legislación laboral para el desempeño de determinadas tareas. En ese sentido, el Estatuto sintetiza aquello que diferencia a quienes trabajan en el sector público administrativo, sea cual sea su relación contractual, de quienes lo hacen en el sector privado.</p>",
+        "respuestas": [
+          {
+            "id": "42976",
+            "pregunta_id": "22382",
+            "respuesta": "El de prestación de habilidades.",
+            "correcta": "0"
+          },
+          {
+            "id": "42975",
+            "pregunta_id": "22382",
+            "respuesta": "El de prestación de servicios.",
+            "correcta": "0"
+          },
+          {
+            "id": "42974",
+            "pregunta_id": "22382",
+            "respuesta": "El funcionarial.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22383",
+        "enunciado": "<p>Los funcionarios se agrupan en:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\">Artículo 75. Cuerpos y escalas.</p>\r\n<p class=\"parrafo\">1. Los funcionarios se agrupan en cuerpos, escalas, especialidades u otros sistemas que incorporen competencias, capacidades y conocimientos comunes acreditados a través de un proceso selectivo.</p>\r\n<p class=\"parrafo\">2. Los cuerpos y escalas de funcionarios se crean, modifican y suprimen por Ley de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas.</p>\r\n<p class=\"parrafo\">3. Cuando en esta Ley se hace referencia a cuerpos y escalas se entenderá comprendida igualmente cualquier otra agrupación de funcionarios.</p>",
+        "respuestas": [
+          {
+            "id": "42979",
+            "pregunta_id": "22383",
+            "respuesta": "Escalas y categorías.",
+            "correcta": "0"
+          },
+          {
+            "id": "42977",
+            "pregunta_id": "22383",
+            "respuesta": "Cuerpos, escalas, especialidades u otros sistemas que incorporen competencias, capacidades y conocimientos comunes acreditados a través de un proceso selectivo.",
+            "correcta": "1"
+          },
+          {
+            "id": "42978",
+            "pregunta_id": "22383",
+            "respuesta": "Cuerpos y escalas.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22384",
+        "enunciado": "<p>Los funcionarios que ejercen actividades que constituyen el objeto de una peculiar carrera o profesión son:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Los Cuerpos especiales. Según el art. 24 LFCE: son funcionarios de Cuerpos especiales los que ejercen actividades que constituyen el objeto de una peculiar carrera o profesión y los que tienen asignado dicho carácter por razón de las circunstancias concurrentes en la función administrativa que les está encomendada.</p>",
+        "respuestas": [
+          {
+            "id": "42982",
+            "pregunta_id": "22384",
+            "respuesta": "Cuerpo Administrativo.",
+            "correcta": "0"
+          },
+          {
+            "id": "42981",
+            "pregunta_id": "22384",
+            "respuesta": "Cuerpo Subalterno.",
+            "correcta": "0"
+          },
+          {
+            "id": "42980",
+            "pregunta_id": "22384",
+            "respuesta": "Cuerpos especiales.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22385",
+        "enunciado": "<p>La creación de nuevos Cuerpos especiales deberá hacerse:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Los Cuerpos especiales. Según el art. 24 LFCE: son funcionarios de Cuerpos especiales los que ejercen actividades que constituyen el objeto de una peculiar carrera o profesión y los que tienen asignado dicho carácter por razón de las circunstancias concurrentes en la función administrativa que les está encomendada.</p>\r\n<p>La creación de nuevos Cuerpos especiales deberá hacerse por Ley (apartado parcialmente derogado por la Ley 30/1984).</p>\r\n<p>Los Cuerpos especiales se rigen por sus disposiciones específicas y por las normas de esta Ley que se refieran a los mismos.</p>",
+        "respuestas": [
+          {
+            "id": "42983",
+            "pregunta_id": "22385",
+            "respuesta": "por Ley.",
+            "correcta": "1"
+          },
+          {
+            "id": "42985",
+            "pregunta_id": "22385",
+            "respuesta": "por acto discrecional del titular del departamento.",
+            "correcta": "0"
+          },
+          {
+            "id": "42984",
+            "pregunta_id": "22385",
+            "respuesta": "por reglamento.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22386",
+        "enunciado": "<p>Los Cuerpos especiales se rigen por:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Los Cuerpos especiales. Según el art. 24 LFCE: son funcionarios de Cuerpos especiales los que ejercen actividades que constituyen el objeto de una peculiar carrera o profesión y los que tienen asignado dicho carácter por razón de las circunstancias concurrentes en la función administrativa que les está encomendada.</p><p>La creación de nuevos Cuerpos especiales deberá hacerse por Ley (apartado parcialmente derogado por la Ley 30/1984).</p><p>Los Cuerpos especiales se rigen por sus disposiciones específicas y por las normas de esta Ley que se refieran a los mismos.</p>",
+        "respuestas": [
+          {
+            "id": "2658005",
+            "pregunta_id": "22386",
+            "respuesta": "Ambas son correctas.",
+            "correcta": "1"
+          },
+          {
+            "id": "2658007",
+            "pregunta_id": "22386",
+            "respuesta": "<p>Por las normas del TREBEP que se refieran a los mismos.</p>",
+            "correcta": "0"
+          },
+          {
+            "id": "2658006",
+            "pregunta_id": "22386",
+            "respuesta": "Sus disposiciones específicas.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22387",
+        "enunciado": "<p>Un funcionario de carrera es:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\">Artículo 9. Funcionarios de carrera.</p>\r\n<p class=\"parrafo\">1. Son funcionarios de carrera quienes, en virtud de <strong>nombramiento legal</strong>, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.</p>\r\n<p class=\"parrafo\">2. En todo caso, el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas corresponden exclusivamente a los funcionarios públicos, en los términos que en la ley de desarrollo de cada Administración Pública se establezca.</p>",
+        "respuestas": [
+          {
+            "id": "42989",
+            "pregunta_id": "22387",
+            "respuesta": "Nombrado.",
+            "correcta": "1"
+          },
+          {
+            "id": "42990",
+            "pregunta_id": "22387",
+            "respuesta": "Contratado.",
+            "correcta": "0"
+          },
+          {
+            "id": "42991",
+            "pregunta_id": "22387",
+            "respuesta": "Designado.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22388",
+        "enunciado": "<p>¿Cuál de las siguientes SÍ que es una característica de los funcionarios de carrera?:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Sus <span style=\"text-decoration: underline;\">características</span> son:</p>\r\n<p>-        La voluntariedad de la relación.</p>\r\n<p>-        Legalidad en el nombramiento.</p>\r\n<p>-        Permanencia en el empleo.</p>\r\n<p>-        La profesionalidad del funcionario.</p>\r\n<p>-        La regulación de la relación funcionarial por el Derecho administrativo.</p>\r\n<p>-        Exclusividad en el ejercicio de las funciones que impliquen la participación directa o indirecta en el desarrollo de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones públicas.</p>\r\n<p>-        Nombramiento: por autoridad competente. En este caso por Resolución del secretario de Estado para la función Pública (en el CNP le corresponde al Secretario de Estado de seguridad).</p>\r\n<p>-        Incorporación a la Administración: a un destino, lo que excluye a los que presten servicios en la Administración de modo ocasional (Por ejemplo: Miembros de una mesa electoral).</p>\r\n<p>-        Desarrollo de una carrera profesional: lo que excluye a los políticos que de forma eventual ejercen una actividad en la Administración.</p>\r\n<p>-        Percibo de modo regular de una retribución: con cargo al erario público. Lo que excluye a quienes ejercen funciones públicas, cumpliendo una concreta obligación (Por ejemplo: La prestación social sustitutoria al antiguo servicio militar…)</p>\r\n<p>-        Regulación de las relaciones mediante el Derecho Administrativo. Lo que excluye a los que trabajen en la misma mediante contrato laboral.</p>",
+        "respuestas": [
+          {
+            "id": "42992",
+            "pregunta_id": "22388",
+            "respuesta": "La voluntariedad de la relación.",
+            "correcta": "1"
+          },
+          {
+            "id": "42993",
+            "pregunta_id": "22388",
+            "respuesta": "La obligatoriedad del cargo.",
+            "correcta": "0"
+          },
+          {
+            "id": "42994",
+            "pregunta_id": "22388",
+            "respuesta": "La legalidad de su contratación.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22389",
+        "enunciado": "<p>¿Cuál de las siguientes es una característica de los funcionarios de carrera?:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Sus <span style=\"text-decoration: underline;\">características</span> son:</p>\r\n<p>-        La voluntariedad de la relación.</p>\r\n<p>-        Legalidad en el nombramiento.</p>\r\n<p>-        Permanencia en el empleo.</p>\r\n<p>-        La profesionalidad del funcionario.</p>\r\n<p>-        La regulación de la relación funcionarial por el Derecho administrativo.</p>\r\n<p>-        Exclusividad en el ejercicio de las funciones que impliquen la participación directa o indirecta en el desarrollo de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones públicas.</p>\r\n<p>-        Nombramiento: por autoridad competente. En este caso por Resolución del secretario de Estado para la función Pública (en el CNP le corresponde al Secretario de Estado de seguridad).</p>\r\n<p>-        Incorporación a la Administración: a un destino, lo que excluye a los que presten servicios en la Administración de modo ocasional (Por ejemplo: Miembros de una mesa electoral).</p>\r\n<p>-        Desarrollo de una carrera profesional: lo que excluye a los políticos que de forma eventual ejercen una actividad en la Administración.</p>\r\n<p>-        Percibo de modo regular de una retribución: con cargo al erario público. Lo que excluye a quienes ejercen funciones públicas, cumpliendo una concreta obligación (Por ejemplo: La prestación social sustitutoria al antiguo servicio militar…)</p>\r\n<p>-        Regulación de las relaciones mediante el Derecho Administrativo. Lo que excluye a los que trabajen en la misma mediante contrato laboral.</p>",
+        "respuestas": [
+          {
+            "id": "42996",
+            "pregunta_id": "22389",
+            "respuesta": "La profesionalidad del funcionario.",
+            "correcta": "0"
+          },
+          {
+            "id": "42995",
+            "pregunta_id": "22389",
+            "respuesta": "Ambas son correctas.",
+            "correcta": "1"
+          },
+          {
+            "id": "42997",
+            "pregunta_id": "22389",
+            "respuesta": "La regulación de la relación funcionarial por el Derecho administrativo.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22390",
+        "enunciado": "<p>El nombramiento de un funcionario de carrera será a cargo de:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\">Artículo 62. Adquisición de la condición de funcionario de carrera.</p>\r\n<p class=\"parrafo\">1. La condición de funcionario de carrera se adquiere por el cumplimiento sucesivo de los siguientes requisitos:</p>\r\n<p class=\"parrafo_2\">a) Superación del proceso selectivo.</p>\r\n<p class=\"parrafo\">b) Nombramiento por el órgano o autoridad competente, que será publicado en el Diario Oficial correspondiente.</p>\r\n<p class=\"parrafo\">c) Acto de acatamiento de la Constitución y, en su caso, del Estatuto de Autonomía correspondiente y del resto del Ordenamiento Jurídico.</p>\r\n<p class=\"parrafo\">d) Toma de posesión dentro del plazo que se establezca.</p>\r\n<p class=\"parrafo_2\">2. A efectos de lo dispuesto en el apartado 1.b) anterior, no podrán ser funcionarios y quedarán sin efecto las actuaciones relativas a quienes no acrediten, una vez superado el proceso selectivo, que reúnen los requisitos y condiciones exigidos en la convocatoria.</p>",
+        "respuestas": [
+          {
+            "id": "43000",
+            "pregunta_id": "22390",
+            "respuesta": "la autoridad laboral.",
+            "correcta": "0"
+          },
+          {
+            "id": "42999",
+            "pregunta_id": "22390",
+            "respuesta": "la autoridad judicial.",
+            "correcta": "0"
+          },
+          {
+            "id": "42998",
+            "pregunta_id": "22390",
+            "respuesta": "autoridad competente.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22391",
+        "enunciado": "<p>La regulación de la relación funcionarial es por:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\">Artículo 9. Funcionarios de carrera.</p>\r\n<p class=\"parrafo\">1. Son funcionarios de carrera quienes, en virtud de nombramiento legal, están vinculados a una Administración Pública por una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.</p>\r\n<p class=\"parrafo\">2. En todo caso, el ejercicio de las funciones que impliquen la participación directa o indirecta en el ejercicio de las potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas corresponden exclusivamente a los funcionarios públicos, en los términos que en la ley de desarrollo de cada Administración Pública se establezca.</p>",
+        "respuestas": [
+          {
+            "id": "43002",
+            "pregunta_id": "22391",
+            "respuesta": "el derecho social.",
+            "correcta": "0"
+          },
+          {
+            "id": "43003",
+            "pregunta_id": "22391",
+            "respuesta": "el derecho contencioso administrativo.",
+            "correcta": "0"
+          },
+          {
+            "id": "43001",
+            "pregunta_id": "22391",
+            "respuesta": "el Derecho administrativo.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22392",
+        "enunciado": "<p>El conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad es:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\">Artículo 16. Concepto, principios y modalidades de la carrera profesional de los funcionarios de carrera.</p>\r\n<p class=\"parrafo\">1. Los funcionarios de carrera tendrán derecho a la promoción profesional.</p>\r\n<p class=\"parrafo\">2. La carrera profesional es el conjunto ordenado de oportunidades de ascenso y expectativas de progreso profesional conforme a los principios de igualdad, mérito y capacidad.</p>",
+        "respuestas": [
+          {
+            "id": "43006",
+            "pregunta_id": "22392",
+            "respuesta": "La promoción laboral.",
+            "correcta": "0"
+          },
+          {
+            "id": "43005",
+            "pregunta_id": "22392",
+            "respuesta": "La jerarquía.",
+            "correcta": "0"
+          },
+          {
+            "id": "43004",
+            "pregunta_id": "22392",
+            "respuesta": "La carrera profesional.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22393",
+        "enunciado": "<p>Para que una persona pueda ser funcionario interino, sería una circunstancia que lo posibilitaría: </p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p><strong>Artículo 10. Funcionarios interinos. TREBEP</strong></p><p>1. Son funcionarios interinos los que, por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales con carácter temporal para el desempeño de funciones propias de funcionarios de carrera, cuando se dé alguna de las siguientes circunstancias:</p><p>a) La existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, <span style=\"color:#0070C0;\"><strong>por un máximo de tres años, en los términos previstos en el apartado 4.</strong></span></p><p>b) La sustitución transitoria de los titulares<span style=\"color:#0070C0;\"><strong>, durante el tiempo estrictamente necesario.</strong></span></p><p>c) La ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto.</p><p>d) El exceso o acumulación de tareas por plazo máximo de <span style=\"color:#0070C0;\"><strong>nueve meses,</strong></span> <span style=\"color:#0070C0;\"><strong>dentro de un periodo de dieciocho meses.</strong></span></p><p>&nbsp;</p>",
+        "respuestas": [
+          {
+            "id": "43008",
+            "pregunta_id": "22393",
+            "respuesta": "Haber un contrato legal.",
+            "correcta": "0"
+          },
+          {
+            "id": "43007",
+            "pregunta_id": "22393",
+            "respuesta": "Haber una vacante.",
+            "correcta": "1"
+          },
+          {
+            "id": "43009",
+            "pregunta_id": "22393",
+            "respuesta": "No hay respuesta correcta.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22394",
+        "enunciado": "<p>El personal interino cuya designación sea consecuencia de la ejecución de programas de carácter temporal o del exceso o acumulación de tareas por plazo máximo de:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p><strong>Artículo 10. Funcionarios interinos. TREBEP&nbsp;</strong></p><p>1. Son funcionarios interinos los que, por razones expresamente justificadas de necesidad y urgencia, son nombrados como tales con carácter temporal para el desempeño de funciones propias de funcionarios de carrera, cuando se dé alguna de las siguientes circunstancias:</p><p>a) La existencia de plazas vacantes, cuando no sea posible su cobertura por funcionarios de carrera, <span style=\"color:#0070C0;\"><strong>por un máximo de tres años, en los términos previstos en el apartado 4.</strong></span></p><p>b) La sustitución transitoria de los titulares<span style=\"color:#0070C0;\"><strong>, durante el tiempo estrictamente necesario.</strong></span></p><p>c) La ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto.</p><p>d) El exceso o acumulación de tareas por plazo máximo de <span style=\"color:#0070C0;\"><strong>nueve meses,</strong></span> <span style=\"color:#0070C0;\"><strong>dentro de un periodo de dieciocho meses.</strong></span></p>",
+        "respuestas": [
+          {
+            "id": "43012",
+            "pregunta_id": "22394",
+            "respuesta": "2 años.",
+            "correcta": "0"
+          },
+          {
+            "id": "43010",
+            "pregunta_id": "22394",
+            "respuesta": "6 meses.",
+            "correcta": "0"
+          },
+          {
+            "id": "43011",
+            "pregunta_id": "22394",
+            "respuesta": "<p>9 meses.</p>",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22395",
+        "enunciado": "<p>El procedimiento general de selección de funcionarios interinos será el de:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Conforme a la Orden APU 1461/2002 el procedimiento de selección será:</p>\r\n<p>-        Con carácter general, el de concurso.</p>\r\n<p>-        Con carácter excepcional, el de concurso-oposición cuando las funciones del puesto exijan superar una entrevista o una prueba práctica.</p>",
+        "respuestas": [
+          {
+            "id": "43013",
+            "pregunta_id": "22395",
+            "respuesta": "Concurso.",
+            "correcta": "1"
+          },
+          {
+            "id": "43015",
+            "pregunta_id": "22395",
+            "respuesta": "Oposición.",
+            "correcta": "0"
+          },
+          {
+            "id": "43014",
+            "pregunta_id": "22395",
+            "respuesta": "Concurso-oposición.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22396",
+        "enunciado": "<p>El procedimiento excepcional de selección de funcionarios interinos será el de:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Conforme a la Orden APU 1461/2002 el procedimiento de selección será:</p>\r\n<p>-        Con carácter general, el de concurso.</p>\r\n<p>-        Con carácter excepcional, el de concurso-oposición cuando las funciones del puesto exijan superar una entrevista o una prueba práctica.</p>\r\n<p> </p>\r\n<p><strong>Cuidado, está preguntando por los funcionarios interinos.</strong></p>\r\n<p> </p>\r\n<p class=\"d1\"><strong>Tercero.</strong>  Selección.</p>\r\n<p><strong>1.</strong> Con carácter general, se realizará mediante concurso, ajustado a los siguientes criterios:</p>\r\n<ul class=\"list-group\">\r\n<li class=\"list-group-item\"><strong>a)</strong> A la experiencia profesional corresponderá entre el 30 y el 70 por 100 del valor total del baremo, aplicándose de acuerdo con los siguientes criterios:\r\n<p>Será valorada con independencia del ámbito en el que hubiera sido adquirida.</p>\r\n<p>Deberá referirse a las funciones y tareas del puesto de trabajo que pretende cubrirse.</p>\r\n<p>Cuando se trate de la cobertura de un puesto de trabajo con cometidos profesionales afines a puestos de trabajo de nivel superior y/o inferior, podrá valorarse la experiencia en dichos puestos, para lo que se otorgará distinta puntuación en función del nivel, superior o inferior, del puesto efectivamente desempeñado respecto al que se opta.</p>\r\n</li>\r\n<li class=\"list-group-item\"><strong>b)</strong> A los conocimientos, cursos de formación y formación académica corresponderá hasta el 70 por 100 del valor total del baremo, aplicándose de acuerdo con los siguientes criterios:\r\n<p>Se otorgará mayor puntuación a los cursos de capacitación profesional relacionados con la plaza a cubrir, impartidos por centros legalmente autorizados y reconocidos, que a la posesión de titulación académica distinta a la exigida para participar en las pruebas, salvo que ésta esté relacionada con las funciones propias del Cuerpo o Escala al que se pretende acceder, en cuyo caso deberá otorgársele una puntuación superior.</p>\r\n<p>Podrá valorarse, con hasta el 50 por 100 del valor total asignado en el baremo a los méritos de este apartado b), la superación de ejercicios en pruebas selectivas de acceso, como funcionario de carrera, a Cuerpos o Escalas del mismo o superior grupo de titulación e igual ámbito funcional que el correspondiente al Cuerpo o Escala al que se pretende acceder, siempre y cuando éstas se hubieran celebrado en los dos años anteriores.</p>\r\n</li>\r\n</ul>\r\n<p>En ningún caso serán valorados méritos no acreditados documentalmente.</p>\r\n<p><strong>2.</strong> Con carácter excepcional, cuando las funciones y el contenido práctico de los puestos a cubrir exijan que los candidatos superen una entrevista o una prueba práctica para demostrar su idoneidad, podrá realizarse mediante <strong>concurso-oposición</strong>, en cuyo caso, las proporciones del baremo y los méritos a valorar en la fase de concurso se ajustarán a los criterios del número 1 anterior.</p>\r\n<p><strong>3.</strong> Podrán convocarse procesos de selección al objeto de elaborar relaciones de candidatos para la sustitución de funcionarios de carrera.</p>\r\n<p><strong>4.</strong> Por razones de plazos o de dificultad para captar candidatos, podrá recurrirse, con carácter excepcional, a los servicios públicos de empleo para realizar la preselección.</p>\r\n<p><strong>5.</strong> La Dirección General de la Función Pública dictará una Instrucción en la que se establecerán los modelos a los que deberá ajustarse la selección.</p>",
+        "respuestas": [
+          {
+            "id": "43018",
+            "pregunta_id": "22396",
+            "respuesta": "Oposición.",
+            "correcta": "0"
+          },
+          {
+            "id": "43016",
+            "pregunta_id": "22396",
+            "respuesta": "Concurso.",
+            "correcta": "0"
+          },
+          {
+            "id": "43017",
+            "pregunta_id": "22396",
+            "respuesta": "Concurso-oposición.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22397",
+        "enunciado": "<p>El nombramiento de los funcionarios interinos, se hará conforme a los principios de:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p><mark class=\"marker-yellow\"><strong>Artículo 10. Funcionarios interinos. TREBEP</strong></mark></p><p>2. Los procedimientos de selección del personal funcionario interino <span style=\"color:#0070C0;\"><strong>serán públicos,&nbsp;</strong></span>rigiéndose en todo caso por los principios de igualdad, mérito, capacidad y <span style=\"color:#0070C0;\"><strong>celeridad, y tendrán por finalidad la cobertura inmediata del puesto. El nombramiento derivado de estos procedimientos de selección en ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera.</strong></span></p>",
+        "respuestas": [
+          {
+            "id": "43021",
+            "pregunta_id": "22397",
+            "respuesta": "<p>No hay principios pues hay una necesidad o urgencia para ocupar el puesto.</p>",
+            "correcta": "0"
+          },
+          {
+            "id": "43020",
+            "pregunta_id": "22397",
+            "respuesta": "<p>Mérito, capacidad y antigüedad.</p>",
+            "correcta": "0"
+          },
+          {
+            "id": "43019",
+            "pregunta_id": "22397",
+            "respuesta": "<p>Igualdad, mérito, capacidad y celeridad.</p>",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22398",
+        "enunciado": "<p>El cese de los funcionarios interinos se producirá:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p><strong>Artículo 10. Funcionarios interinos.</strong></p><p><span style=\"color:#0070C0;\"><strong>3. En todo caso, la Administración formalizará de oficio la finalización de la relación de interinidad por cualquiera de las siguientes causas, además de por las previstas en el artículo 63, sin derecho a compensación alguna:</strong></span></p><p><span style=\"color:#0070C0;\"><strong>a) Por la cobertura reglada del puesto por personal funcionario de carrera a través de cualquiera de los procedimientos legalmente establecidos.</strong></span></p><p><span style=\"color:#0070C0;\"><strong>b) Por razones organizativas que den lugar a la supresión o a la amortización de los puestos asignados.</strong></span></p><p><span style=\"color:#0070C0;\"><strong>c) Por la finalización del plazo autorizado expresamente recogido en su nombramiento.</strong></span></p><p><span style=\"color:#0070C0;\"><strong>d) Por la finalización de la causa que dio lugar a su nombramiento.</strong></span></p>",
+        "respuestas": [
+          {
+            "id": "43023",
+            "pregunta_id": "22398",
+            "respuesta": "Termine el contrato.",
+            "correcta": "0"
+          },
+          {
+            "id": "43022",
+            "pregunta_id": "22398",
+            "respuesta": "Cuando finalice la causa que dio lugar a su nombramiento.",
+            "correcta": "1"
+          },
+          {
+            "id": "43024",
+            "pregunta_id": "22398",
+            "respuesta": "Termine la confianza en el funcionario.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22399",
+        "enunciado": "<p>El personal laboral será:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\">Artículo 11. Personal laboral.</p>\r\n<p class=\"parrafo\">1. Es personal laboral el que en virtud de <strong>contrato</strong> de trabajo formalizado por escrito, en cualquiera de las modalidades de contratación de personal previstas en la legislación laboral, presta servicios retribuidos por las Administraciones Públicas. En función de la duración del contrato éste podrá ser fijo, por tiempo indefinido o temporal.</p>\r\n<p class=\"parrafo\">2. Las Leyes de Función Pública que se dicten en desarrollo de este Estatuto establecerán los criterios para la determinación de los puestos de trabajo que pueden ser desempeñados por personal laboral, respetando en todo caso lo establecido en el artículo 9.2.</p>",
+        "respuestas": [
+          {
+            "id": "43026",
+            "pregunta_id": "22399",
+            "respuesta": "nombrado.",
+            "correcta": "0"
+          },
+          {
+            "id": "43025",
+            "pregunta_id": "22399",
+            "respuesta": "contratado.",
+            "correcta": "1"
+          },
+          {
+            "id": "43027",
+            "pregunta_id": "22399",
+            "respuesta": "designado.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22400",
+        "enunciado": "<p>La relación de servicios del personal laboral se rige por:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\">Artículo 92. Situaciones del personal laboral.</p>\r\n<p class=\"parrafo\">El<strong> personal laboral</strong> se regirá por el <strong>Estatuto de los Trabajadores y por los Convenios Colectivos que les sean de aplicación.</strong></p>\r\n<p class=\"parrafo\">Los convenios colectivos podrán determinar la aplicación de este Capítulo al personal incluido en su ámbito de aplicación en lo que resulte compatible con el Estatuto de los Trabajadores.</p>\r\n<p class=\"parrafo\"> </p>\r\n<p class=\"parrafo\"> </p>",
+        "respuestas": [
+          {
+            "id": "43028",
+            "pregunta_id": "22400",
+            "respuesta": "El Estatuto de los Trabajadores.",
+            "correcta": "1"
+          },
+          {
+            "id": "43030",
+            "pregunta_id": "22400",
+            "respuesta": "El derecho administrativo.",
+            "correcta": "0"
+          },
+          {
+            "id": "43029",
+            "pregunta_id": "22400",
+            "respuesta": "El EBEP.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22401",
+        "enunciado": "<p>La jurisdicción competente para resolver los conflictos en vía judicial del personal laboral es:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>El personal laboral se <span style=\"text-decoration: underline;\">diferencia</span> del personal funcionario por:</p>\r\n<p>-        La relación de servicios del personal laboral se rige por el Estatuto de los Trabajadores, sus normas de desarrollo y el convenio colectivo que le sea de aplicación, mientras que el personal funcionario se rige por el derecho de la función pública.</p>\r\n<p>-        El personal laboral está vinculado a la Administración pública con un contrato y no por un nombramiento.</p>\r\n<p>-        La movilidad geográfica y funcional del personal laboral está limitada al ámbito del convenio colectivo que le sea aplicable.</p>\r\n<p>-        La<strong> jurisdicción social</strong> es la competente para resolver los conflictos en vía judicial.</p>",
+        "respuestas": [
+          {
+            "id": "43032",
+            "pregunta_id": "22401",
+            "respuesta": "la civil.",
+            "correcta": "0"
+          },
+          {
+            "id": "43031",
+            "pregunta_id": "22401",
+            "respuesta": "la social.",
+            "correcta": "1"
+          },
+          {
+            "id": "43033",
+            "pregunta_id": "22401",
+            "respuesta": "la contencioso.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22402",
+        "enunciado": "<p>La movilidad geográfica y funcional del personal laboral:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\">Artículo 83. Provisión de puestos y movilidad del personal laboral.</p>\r\n<p class=\"parrafo\">La provisión de puestos y movilidad del personal laboral se realizará de conformidad con lo que establezcan los convenios colectivos que sean de aplicación y, en su defecto por el sistema de provisión de puestos y movilidad del personal funcionario de carrera.</p>",
+        "respuestas": [
+          {
+            "id": "43036",
+            "pregunta_id": "22402",
+            "respuesta": "se limita al ámbito estatal.",
+            "correcta": "0"
+          },
+          {
+            "id": "43035",
+            "pregunta_id": "22402",
+            "respuesta": "es ilimitada.",
+            "correcta": "0"
+          },
+          {
+            "id": "43034",
+            "pregunta_id": "22402",
+            "respuesta": "está limitada al ámbito del convenio colectivo que le sea aplicable.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22403",
+        "enunciado": "<p>El personal eventual será:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\">Artículo 12. Personal eventual.</p>\r\n<p class=\"parrafo\">1. Es personal eventual el que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin.</p>\r\n<p class=\"parrafo\">2. Las leyes de Función Pública que se dicten en desarrollo de este Estatuto determinarán los órganos de gobierno de las Administraciones Públicas que podrán disponer de este tipo de personal. El número máximo se establecerá por los respectivos órganos de gobierno. Este número y las condiciones retributivas serán públicas.</p>\r\n<p class=\"parrafo\">3. El nombramiento y cese serán libres. El cese tendrá lugar, en todo caso, cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento.</p>\r\n<p class=\"parrafo\">4. La condición de personal eventual no podrá constituir mérito para el acceso a la Función Pública o para la promoción interna.</p>\r\n<p class=\"parrafo\">5. Al personal eventual le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios de carrera.</p>",
+        "respuestas": [
+          {
+            "id": "43039",
+            "pregunta_id": "22403",
+            "respuesta": "designado.",
+            "correcta": "0"
+          },
+          {
+            "id": "43037",
+            "pregunta_id": "22403",
+            "respuesta": "contratado.",
+            "correcta": "0"
+          },
+          {
+            "id": "43038",
+            "pregunta_id": "22403",
+            "respuesta": "nombrado.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22404",
+        "enunciado": "<p>El nombramiento y cese del personal eventual es:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\">Artículo 12. Personal eventual.</p>\r\n<p class=\"parrafo\">1. Es personal eventual el que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin.</p>\r\n<p class=\"parrafo\">2. Las leyes de Función Pública que se dicten en desarrollo de este Estatuto determinarán los órganos de gobierno de las Administraciones Públicas que podrán disponer de este tipo de personal. El número máximo se establecerá por los respectivos órganos de gobierno. Este número y las condiciones retributivas serán públicas.</p>\r\n<p class=\"parrafo\">3. El nombramiento y cese serán libres. El cese tendrá lugar, en todo caso, cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento.</p>\r\n<p class=\"parrafo\">4. La condición de personal eventual no podrá constituir mérito para el acceso a la Función Pública o para la promoción interna.</p>\r\n<p class=\"parrafo\">5. Al personal eventual le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios de carrera.</p>",
+        "respuestas": [
+          {
+            "id": "43041",
+            "pregunta_id": "22404",
+            "respuesta": "Tasado.",
+            "correcta": "0"
+          },
+          {
+            "id": "43040",
+            "pregunta_id": "22404",
+            "respuesta": "Libre.",
+            "correcta": "1"
+          },
+          {
+            "id": "43042",
+            "pregunta_id": "22404",
+            "respuesta": "Regulado por el EBEP.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22405",
+        "enunciado": "<p>¿Sabría indicar cuál de los siguientes funcionarios estará sujeto a evaluación con arreglo a los criterios de eficacia y eficiencia?:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\"><span style=\"color: #ff0000;\"><strong>Artículo 13. Personal directivo profesional.</strong></span></p>\r\n<p class=\"parrafo\">El Gobierno y los Órganos de Gobierno de las Comunidades Autónomas podrán establecer, en desarrollo de este Estatuto, el régimen jurídico específico del personal directivo así como los criterios para determinar su condición, de acuerdo, entre otros, con los siguientes principios:</p>\r\n<p class=\"parrafo_2\">1. Es personal directivo el que desarrolla funciones directivas profesionales en las Administraciones Públicas, definidas como tales en las normas específicas de cada Administración.</p>\r\n<p class=\"parrafo\">2. Su designación atenderá a principios de mérito y capacidad y a criterios de idoneidad, y se llevará a cabo mediante procedimientos que garanticen la publicidad y concurrencia.</p>\r\n<p class=\"parrafo\">3. El personal directivo estará sujeto a evaluación con arreglo a los criterios de eficacia y eficiencia, responsabilidad por su gestión y control de resultados en relación con los objetivos que les hayan sido fijados.</p>\r\n<p class=\"parrafo\">4. La determinación de las condiciones de empleo del personal directivo no tendrá la consideración de materia objeto de negociación colectiva a los efectos de esta Ley. Cuando el personal directivo reúna la condición de personal laboral estará sometido a la relación laboral de carácter especial de alta dirección.</p>",
+        "respuestas": [
+          {
+            "id": "43043",
+            "pregunta_id": "22405",
+            "respuesta": "Personal directivo.",
+            "correcta": "1"
+          },
+          {
+            "id": "43045",
+            "pregunta_id": "22405",
+            "respuesta": "Personal eventual.",
+            "correcta": "0"
+          },
+          {
+            "id": "43044",
+            "pregunta_id": "22405",
+            "respuesta": "Funcionarios de carrera.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22406",
+        "enunciado": "<p>Según el texto refundido de la Ley del Estatuto Básico del Empleado Público (RDL 5/2015) los principios constitucionales para el acceso a la función pública son:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\">Artículo 55. Principios rectores.</p>\r\n<p class=\"parrafo\">1. Todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de igualdad, mérito y capacidad, y de acuerdo con lo previsto en el presente Estatuto y en el resto del ordenamiento jurídico.</p>\r\n<p class=\"parrafo\">2. Las Administraciones Públicas, entidades y organismos a que se refiere el artículo 2 del presente Estatuto seleccionarán a su personal funcionario y laboral mediante procedimientos en los que se garanticen los principios constitucionales antes expresados, así como los establecidos a continuación:</p>\r\n<p class=\"parrafo_2\">a) Publicidad de las convocatorias y de sus bases.</p>\r\n<p class=\"parrafo\">b) Transparencia.</p>\r\n<p class=\"parrafo\">c) Imparcialidad y profesionalidad de los miembros de los órganos de selección.</p>\r\n<p class=\"parrafo\">d) Independencia y discrecionalidad técnica en la actuación de los órganos de selección.</p>\r\n<p class=\"parrafo\">e) Adecuación entre el contenido de los procesos selectivos y las funciones o tareas a desarrollar.</p>\r\n<p class=\"parrafo\">f) Agilidad, sin perjuicio de la objetividad, en los procesos de selección.</p>",
+        "respuestas": [
+          {
+            "id": "43048",
+            "pregunta_id": "22406",
+            "respuesta": "No hay respuesta completa.",
+            "correcta": "0"
+          },
+          {
+            "id": "43047",
+            "pregunta_id": "22406",
+            "respuesta": "Igualdad, Mérito, Publicidad y Capacidad.",
+            "correcta": "0"
+          },
+          {
+            "id": "43046",
+            "pregunta_id": "22406",
+            "respuesta": "Igualdad, Mérito y Capacidad.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22407",
+        "enunciado": "<p>Principios para la selección de funcionarios interinos:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p><strong>Artículo 10. Funcionarios interinos.</strong></p><p>2. Los procedimientos de selección del personal funcionario interino <span style=\"color:#0070C0;\"><strong>serán públicos,&nbsp;</strong></span>rigiéndose en todo caso por los principios de igualdad, mérito, capacidad y <span style=\"color:#0070C0;\"><strong>celeridad, y tendrán por finalidad la cobertura inmediata del puesto. El nombramiento derivado de estos procedimientos de selección en ningún caso dará lugar al reconocimiento de la condición de funcionario de carrera.</strong></span></p>",
+        "respuestas": [
+          {
+            "id": "43049",
+            "pregunta_id": "22407",
+            "respuesta": "<p>Igualdad, mérito, capacidad y celeridad. </p>",
+            "correcta": "1"
+          },
+          {
+            "id": "43051",
+            "pregunta_id": "22407",
+            "respuesta": "No hay respuesta completa.",
+            "correcta": "0"
+          },
+          {
+            "id": "43050",
+            "pregunta_id": "22407",
+            "respuesta": "<p>Igualdad, mérito, publicidad y capacidad.</p>",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22408",
+        "enunciado": "<p>Principios para la provisión de puestos de servicio en las FF. Y CC. de Seguridad:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p><mark class=\"marker-yellow\"><strong>ART. 6 LO 2/86</strong></mark></p><p>6. Los puestos de servicio en las respectivas categorías se proveerán conforme a los principios de mérito, capacidad y antigüedad, a tenor de lo dispuesto en la correspondiente reglamentación.</p>",
+        "respuestas": [
+          {
+            "id": "43053",
+            "pregunta_id": "22408",
+            "respuesta": "Igualdad, Mérito, Publicidad y Capacidad.",
+            "correcta": "0"
+          },
+          {
+            "id": "43052",
+            "pregunta_id": "22408",
+            "respuesta": "Igualdad, Mérito y Capacidad.",
+            "correcta": "0"
+          },
+          {
+            "id": "43054",
+            "pregunta_id": "22408",
+            "respuesta": "Mérito, capacidad y antigüedad.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22410",
+        "enunciado": "<p>Los Planes de Empleo se aprobarán por:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p><span>La normativa dice: </span></p>\r\n<p><span>Los Planes de Empleo se aprobarán por el Secretario de Estado para la Administración Pública (actual Secretaría de Estado de Función Pública)  con informe favorable del Ministerio de Economía y Hacienda, previa negociación con las Organizaciones Sindicales en los términos establecidos en la </span><a href=\"http://noticias.juridicas.com/base_datos/Admin/l9-1987.html\">Ley 9/1987, de 12 de junio</a><span>, de Órganos de representación, determinación de las condiciones de trabajo y participación del personal al servicio de las Administraciones públicas.</span></p>\r\n<p><span> </span></p>",
+        "respuestas": [
+          {
+            "id": "43058",
+            "pregunta_id": "22410",
+            "respuesta": "El Ministerio de Política Territorial y Función Pública.",
+            "correcta": "0"
+          },
+          {
+            "id": "43060",
+            "pregunta_id": "22410",
+            "respuesta": "El Secretario de Estado de Función Pública.",
+            "correcta": "1"
+          },
+          {
+            "id": "43059",
+            "pregunta_id": "22410",
+            "respuesta": "El Observatorio del Empleo Público.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22409",
+        "enunciado": "<p>El órgano directivo,, adscrito al Ministerio de la Presidencia, Relaciones con las Cortes y Memoria Democráticas, al que le corresponde la planificación y gestión de los recursos humanos: </p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Artículo&nbsp;7. Subsecretaría de la Presidencia, Relaciones con las Cortes y Memoria Democrática.</p><p>1. Corresponde a la Subsecretaría de la Presidencia, Relaciones con las Cortes y Memoria Democrática, bajo la superior dirección de la titular del Departamento, el ejercicio de las atribuciones a que se refiere el artículo&nbsp;63 de la Ley&nbsp;40/2015, de&nbsp;1 de octubre, y, en particular, el desempeño de las funciones siguientes:</p><p>d) La dirección y coordinación de los servicios comunes del Ministerio y, en particular, la planificación y gestión económica y presupuestaria, así como la de los recursos humanos, tecnológicos y materiales, dentro del marco definido por el Ministerio de Asuntos Económicos y Transformación Digital para los servicios comunes de sistemas de información y de las comunicaciones.</p>",
+        "respuestas": [
+          {
+            "id": "43057",
+            "pregunta_id": "22409",
+            "respuesta": "La secretaría de Estado de contratación.",
+            "correcta": "0"
+          },
+          {
+            "id": "43056",
+            "pregunta_id": "22409",
+            "respuesta": "La secretaría de Estado de empleo.",
+            "correcta": "0"
+          },
+          {
+            "id": "43055",
+            "pregunta_id": "22409",
+            "respuesta": "Subsecretaría de la Presidencia, Relaciones con las Cortes y Memoria Democrática.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22411",
+        "enunciado": "<p>¿Quién elaborará una única oferta de empleo público anual?:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<div id=\"ART9\">\n<p style=\"text-align: justify;\">Conforme al <strong>Real Decreto 863/2018, de 13 de julio</strong>, por el que se desarrolla la estructura orgánica básica del Ministerio de Política Territorial y Función Pública, se dispone:</p>\nArtículo 8. Dirección General de la Función Pública.\n<p class=\"parrafo\" style=\"text-align: justify;\">1. Corresponden a la Dirección General de la Función Pública las siguientes funciones:</p>\n<p class=\"parrafo_2\" style=\"text-align: justify;\">...</p>\n<p class=\"parrafo\" style=\"text-align: justify;\"><strong>b) La elaboración y propuesta de la Oferta de Empleo Público de la Administración del Estado,</strong> la realización de estudios sobre necesidades de personal de la Administración del Estado y sobre los criterios de asignación eficiente de los efectivos de la misma, el diagnóstico sobre la situación en materia de recursos humanos en el sector público institucional estatal, la elaboración de bases comunes y el informe de las convocatorias para el acceso a la condición de empleado público de la Administración General del Estado y del sector público institucional estatal, y la convocatoria de procesos selectivos para el acceso o promoción interna del personal laboral del convenio único de la Administración General del Estado.<span style=\"font-size: 12pt; text-align: left;\"> </span></p>\n<p style=\"text-align: justify;\">Debemos recordar que respecto a las ofertas de empleo público también podemos afirmar que se hacen: a propuesta de la Ministra de Política Territorial y Función Pública, con el informe favorable del Ministerio de Hacienda, y previa deliberación del Consejo de Ministros</p>\n </div>",
+        "respuestas": [
+          {
+            "id": "43061",
+            "pregunta_id": "22411",
+            "respuesta": "Ministro de Justicia.",
+            "correcta": "0"
+          },
+          {
+            "id": "43063",
+            "pregunta_id": "22411",
+            "respuesta": "<span style=\"text-align: justify;\">Ministerio de Política Territorial y Función Pública</span>",
+            "correcta": "1"
+          },
+          {
+            "id": "43062",
+            "pregunta_id": "22411",
+            "respuesta": "Ministerio de Hacienda.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22412",
+        "enunciado": "<p>Los órganos habituales de carácter permanente de selección son:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Los “Tribunales de Selección”, son los órganos habituales de carácter permanente. Serán nombrados, salvo excepción justificada, en cada orden de convocatoria y con arreglo a ella les corresponderá el desarrollo y calificación de las pruebas selectivas. Estarán constituidos por un número impar de miembros, funcionarios de carrera, no inferior a cinco, debiendo designarse el mismo número de miembros suplentes y en su composición se velará por el cumplimiento del principio de especialidad. Este principio supone que, al menos, la mitad más 1 de los miembros deberán poseer titulación correspondiente al mismo área que a exigida para el ingreso y que la totalidad de los miembros deberá poseer nivel de titulación igual o superior al exigido para el ingreso en el Cuerpo o Escala de que se trate.</p>",
+        "respuestas": [
+          {
+            "id": "43065",
+            "pregunta_id": "22412",
+            "respuesta": "Las Comisiones Permanentes de Selección.",
+            "correcta": "0"
+          },
+          {
+            "id": "43066",
+            "pregunta_id": "22412",
+            "respuesta": "Ninguno de ellos.",
+            "correcta": "0"
+          },
+          {
+            "id": "43064",
+            "pregunta_id": "22412",
+            "respuesta": "Los Tribunales de Selección.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22413",
+        "enunciado": "<p>Las “Comisiones Permanentes de Selección” estarán constituidas por:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Las “Comisiones Permanentes de Selección”: las Comisiones también estarán constituidas por un <strong>número impar de miembros</strong> (al tratarse de un órgano colegiado deberán ser 3 como mínimo. Actualizado periódicamente), funcionarios de carrera, con nivel de titulación igual o superior al del Cuerpo o Escala en cuya selección vayan a intervenir y actúan cuando el elevado número de aspirantes y el nivel de titulación o especialización así lo aconseje, mientras que los Tribunales actúan por exclusión (cuando no actúe una Comisión Permanente de Selección). Por último las Comisiones Permanentes evalúan varios procesos selectivos mientras que los Tribunales evalúan un solo proceso selectivo.</p>",
+        "respuestas": [
+          {
+            "id": "43069",
+            "pregunta_id": "22413",
+            "respuesta": "un número par de miembros, contando entre ellos con un Presidente.",
+            "correcta": "0"
+          },
+          {
+            "id": "43067",
+            "pregunta_id": "22413",
+            "respuesta": "un número impar de miembros.",
+            "correcta": "1"
+          },
+          {
+            "id": "43068",
+            "pregunta_id": "22413",
+            "respuesta": "un número par de miembros.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22414",
+        "enunciado": "<p>Las “Comisiones Permanentes de Selección” estarán constituidas por un mínimo de:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Las “Comisiones Permanentes de Selección”: las Comisiones también estarán constituidas por un<strong> número impar de miembros (al tratarse de un órgano colegiado deberán ser 3 como mínimo</strong>. Actualizado periódicamente), funcionarios de carrera, con nivel de titulación igual o superior al del Cuerpo o Escala en cuya selección vayan a intervenir y actúan cuando el elevado número de aspirantes y el nivel de titulación o especialización así lo aconseje, mientras que los Tribunales actúan por exclusión (cuando no actúe una Comisión Permanente de Selección). Por último las Comisiones Permanentes evalúan varios procesos selectivos mientras que los Tribunales evalúan un solo proceso selectivo.</p>",
+        "respuestas": [
+          {
+            "id": "43070",
+            "pregunta_id": "22414",
+            "respuesta": "3 miembros.",
+            "correcta": "1"
+          },
+          {
+            "id": "43071",
+            "pregunta_id": "22414",
+            "respuesta": "7 miembros.",
+            "correcta": "0"
+          },
+          {
+            "id": "43072",
+            "pregunta_id": "22414",
+            "respuesta": "11 miembros.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22415",
+        "enunciado": "<p>Las Comisiones Permanentes evalúan:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Las Comisiones Permanentes evalúan varios procesos selectivos mientras que los Tribunales evalúan un solo proceso selectivo.</p>",
+        "respuestas": [
+          {
+            "id": "43073",
+            "pregunta_id": "22415",
+            "respuesta": "varios procesos selectivos.",
+            "correcta": "1"
+          },
+          {
+            "id": "43075",
+            "pregunta_id": "22415",
+            "respuesta": "no evalúan procesos selectivos.",
+            "correcta": "0"
+          },
+          {
+            "id": "43074",
+            "pregunta_id": "22415",
+            "respuesta": "un solo proceso selectivo.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22416",
+        "enunciado": "<p>¿Qué evalúan los Tribunales?</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Las Comisiones Permanentes evalúan varios procesos selectivos mientras que los Tribunales evalúan un solo proceso selectivo.</p>",
+        "respuestas": [
+          {
+            "id": "43076",
+            "pregunta_id": "22416",
+            "respuesta": "Varios procesos selectivos.",
+            "correcta": "0"
+          },
+          {
+            "id": "43078",
+            "pregunta_id": "22416",
+            "respuesta": "No evalúan procesos selectivos.",
+            "correcta": "0"
+          },
+          {
+            "id": "43077",
+            "pregunta_id": "22416",
+            "respuesta": "Un solo proceso selectivo.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22418",
+        "enunciado": "<p>La Comisión Permanente de Selección está adscrita:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>La Comisión Permanente de Selección es el órgano colegiado encargado de la realización de los procesos selectivos para ingreso en los cuerpos y escalas de funcionarios de la Administración General del Estado. Está adscrita al Instituto Nacional de Administración Pública.</p>",
+        "respuestas": [
+          {
+            "id": "43082",
+            "pregunta_id": "22418",
+            "respuesta": "al Instituto Nacional de Administración Pública.",
+            "correcta": "1"
+          },
+          {
+            "id": "43083",
+            "pregunta_id": "22418",
+            "respuesta": "al Ministerio de Empleo.",
+            "correcta": "0"
+          },
+          {
+            "id": "43084",
+            "pregunta_id": "22418",
+            "respuesta": "al Ministerio de Hacienda.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22419",
+        "enunciado": "<p>La Presidencia de la Comisión Permanente de Selección corresponderá:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>La Comisión Permanente de Selección es el órgano colegiado encargado de la realización de los procesos selectivos para ingreso en los cuerpos y escalas de funcionarios de la Administración General del Estado. Está adscrita al Instituto Nacional de Administración Pública.</p>\r\n<p>La Subdirección de Selección del Instituto Nacional de Administración Pública constituye el órgano de apoyo a la Comisión Permanente de Selección en la organización y ejecución de los procesos selectivos encomendados a la misma. Corresponde al titular de dicha subdirección la Presidencia de la Comisión Permanente de Selección, cesando en el desempeño de esa función al hacerlo en el puesto de trabajo que determinó su nombramiento.</p>",
+        "respuestas": [
+          {
+            "id": "43086",
+            "pregunta_id": "22419",
+            "respuesta": "al miembro que designe el Pleno.",
+            "correcta": "0"
+          },
+          {
+            "id": "43085",
+            "pregunta_id": "22419",
+            "respuesta": "al titular del Instituto Nacional de Administración Pública.",
+            "correcta": "1"
+          },
+          {
+            "id": "43087",
+            "pregunta_id": "22419",
+            "respuesta": "al miembro más antiguo.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22420",
+        "enunciado": "<p>El proceso de selección en el ámbito de la Administración General del Estado, comienza con:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\">Artículo 69. Objetivos e instrumentos de la planificación.</p>\r\n<p class=\"parrafo\">1. La planificación de los recursos humanos en las Administraciones Públicas tendrá como objetivo contribuir a la consecución de la eficacia en la prestación de los servicios y de la eficiencia en la utilización de los recursos económicos disponibles mediante la dimensión adecuada de sus efectivos, su mejor distribución, formación, promoción profesional y movilidad.</p>\r\n<p class=\"parrafo\">2. Las Administraciones Públicas podrán aprobar Planes para la ordenación de sus recursos humanos, que incluyan, entre otras, algunas de las siguientes medidas:</p>\r\n<p class=\"parrafo_2\">a) Análisis de las disponibilidades y necesidades de personal, tanto desde el punto de vista del número de efectivos, como del de los perfiles profesionales o niveles de cualificación de los mismos.</p>\r\n<p class=\"parrafo\">b) Previsiones sobre los sistemas de organización del trabajo y modificaciones de estructuras de puestos de trabajo.</p>\r\n<p class=\"parrafo\">c) Medidas de movilidad, entre las cuales podrá figurar la suspensión de incorporaciones de personal externo a un determinado ámbito o la convocatoria de concursos de provisión de puestos limitados a personal de ámbitos que se determinen.</p>\r\n<p class=\"parrafo\">d) Medidas de promoción interna y de formación del personal y de movilidad forzosa de conformidad con lo dispuesto en el Capítulo III del presente Título de este Estatuto.</p>\r\n<p class=\"parrafo\">e) La previsión de la incorporación de recursos humanos a través de la Oferta de empleo público, de acuerdo con lo establecido en el artículo siguiente.</p>\r\n<p class=\"parrafo_2\">3. Cada Administración Pública planificará sus recursos humanos de acuerdo con los sistemas que establezcan las normas que les sean de aplicación.</p>\r\n[Bloque 86: #a70]\r\n<p class=\"articulo\">Artículo 70. Oferta de empleo público.</p>\r\n<p class=\"parrafo\">1. Las necesidades de recursos humanos, con asignación presupuestaria, que deban proveerse mediante la incorporación de personal de nuevo ingreso serán objeto de la Oferta de empleo público, o a través de otro instrumento similar de gestión de la provisión de las necesidades de personal, lo que comportará la obligación de convocar los correspondientes procesos selectivos para las plazas comprometidas y hasta un diez por cien adicional, fijando el plazo máximo para la convocatoria de los mismos. En todo caso, la ejecución de la oferta de empleo público o instrumento similar deberá desarrollarse dentro del plazo improrrogable de tres años.</p>\r\n<p class=\"parrafo\">2. La Oferta de empleo público o instrumento similar, que se aprobará anualmente por los órganos de Gobierno de las Administraciones Públicas, deberá ser publicada en el Diario oficial correspondiente.</p>\r\n<p class=\"parrafo\">3. La Oferta de empleo público o instrumento similar podrá contener medidas derivadas de la planificación de recursos humanos.</p>",
+        "respuestas": [
+          {
+            "id": "43089",
+            "pregunta_id": "22420",
+            "respuesta": "la convocatoria.",
+            "correcta": "0"
+          },
+          {
+            "id": "43090",
+            "pregunta_id": "22420",
+            "respuesta": "el pago de las tasas.",
+            "correcta": "0"
+          },
+          {
+            "id": "43088",
+            "pregunta_id": "22420",
+            "respuesta": "la oferta de empleo público.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22421",
+        "enunciado": "<p>Las Comisiones Permanentes de Selección se establecen por:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<div id=\"ART12\">\n<p class=\"a\">Artículo 12  Comisiones Permanentes de Selección </p>\n<p><strong>1. </strong> A las Comisiones Permanentes de Selección se encomienda el desarrollo y la calificación de las pruebas selectivas para el acceso a aquellos Cuerpos y Escalas en los que el elevado número de aspirantes y el nivel de titulación o especialización exigidos así lo aconseje.</p>\n<p><strong>2. Las Comisiones Permanentes de Selección se establecerán por Orden del Ministerio para las Administraciones Públicas (Actual Ministerio de Política Territorial y Función Pública), previo acuerdo, en su caso, con el Departamento a que estén adscritos los Cuerpos o Escalas objeto de selección.</strong></p>\n<p><strong>3. </strong> Las Comisiones Permanentes de Selección estarán constituidas por un número impar de miembros, funcionarios de carrera, con nivel de titulación igual o superior al del Cuerpo o Escala en cuya selección vayan a intervenir, que serán designados libremente de acuerdo con lo previsto en la Orden ministerial por la que se creen tales comisiones y en su composición se velará por el cumplimiento del principio de especialidad.</p>\n<p><strong>4. </strong> Cuando los procesos selectivos se realicen de forma descentralizada, en las convocatorias respectivas se podrá disponer la incorporación con carácter temporal a las Comisiones Permanentes de Selección de funcionarios que colaboren en el desarrollo de los procesos de selección, bajo la dirección de la correspondiente comisión.</p>\n</div>",
+        "respuestas": [
+          {
+            "id": "43092",
+            "pregunta_id": "22421",
+            "respuesta": "El Ministerio de Política Territorial y Función Pública.",
+            "correcta": "1"
+          },
+          {
+            "id": "43093",
+            "pregunta_id": "22421",
+            "respuesta": "El Ministerio de Empleo Público.",
+            "correcta": "0"
+          },
+          {
+            "id": "43091",
+            "pregunta_id": "22421",
+            "respuesta": "Orden del Ministerio de Presidencia, Relaciones con las Cortes e Igualdad en determinadas ocasiones.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22423",
+        "enunciado": "<p>La presentación de la solicitud de participación en un proceso selectivo, se efectuará:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Presentación de la solicitud de participación dentro de los veinte días naturales a partir del siguiente al de la publicación de la convocatoria respectiva.</p>",
+        "respuestas": [
+          {
+            "id": "43098",
+            "pregunta_id": "22423",
+            "respuesta": "dentro de los treinta días hábiles a partir del siguiente al de la publicación de la convocatoria respectiva.",
+            "correcta": "0"
+          },
+          {
+            "id": "43097",
+            "pregunta_id": "22423",
+            "respuesta": "dentro de los veinte días naturales a partir del siguiente al de la publicación de la convocatoria respectiva.",
+            "correcta": "1"
+          },
+          {
+            "id": "43099",
+            "pregunta_id": "22423",
+            "respuesta": "dentro de los treinta días naturales a partir del siguiente al de la publicación de la convocatoria respectiva.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22422",
+        "enunciado": "<p>¿Quién determina mediante un único sorteo público celebrado previo anuncio en el BOE, el orden de actuación de los aspirantes en todas las pruebas selectivas?:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Con anterioridad al inicio de las pruebas selectivas, la Secretaría de Estado para la Función Pública determinará, mediante un único sorteo público celebrado previo anuncio en el BOE, el orden de actuación de los aspirantes en todas las pruebas selectivas de ingreso que se celebren durante el año. El resultado se publicará, igualmente, en el BOE.</p>",
+        "respuestas": [
+          {
+            "id": "43094",
+            "pregunta_id": "22422",
+            "respuesta": "La Secretaría de Estado para la Función Pública.",
+            "correcta": "1"
+          },
+          {
+            "id": "43095",
+            "pregunta_id": "22422",
+            "respuesta": "El Ministerio de Presidencia.",
+            "correcta": "0"
+          },
+          {
+            "id": "43096",
+            "pregunta_id": "22422",
+            "respuesta": "El Ministerio de Hacienda.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22424",
+        "enunciado": "<p>¿En qué plazo máximo tras la convocatoria se sacará la lista de admitidos y excluidos en un proceso selectivo?:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>Resolución aprobando la lista de admitidos y excluidos en el plazo máximo de<strong> un mes</strong>. Se publica en el BOE, señalándose un plazo de 10 días hábiles para subsanación y determinándose el lugar y fecha de comienzo de los ejercicios.</p>",
+        "respuestas": [
+          {
+            "id": "43101",
+            "pregunta_id": "22424",
+            "respuesta": "15 días.",
+            "correcta": "0"
+          },
+          {
+            "id": "43102",
+            "pregunta_id": "22424",
+            "respuesta": "3 meses.",
+            "correcta": "0"
+          },
+          {
+            "id": "43100",
+            "pregunta_id": "22424",
+            "respuesta": "1 mes.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22425",
+        "enunciado": "<p>Un opositor aparece en la lista de los aspirantes a una convocatoria de empleo público como excluido y por ello usted sabe que tiene un plazo de ____ para subsanar el error:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>-        Plazo para subsanar defectos: 10 días hábiles desde lista provisional.</p>",
+        "respuestas": [
+          {
+            "id": "43103",
+            "pregunta_id": "22425",
+            "respuesta": "10 días hábiles.",
+            "correcta": "1"
+          },
+          {
+            "id": "43104",
+            "pregunta_id": "22425",
+            "respuesta": "1 mes natural.",
+            "correcta": "0"
+          },
+          {
+            "id": "43105",
+            "pregunta_id": "22425",
+            "respuesta": "15 días naturales.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22427",
+        "enunciado": "<p>Un notario es un ejemplo de...</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\"><span style=\"color: #ff0000;\"><strong> Artículo 4. Personal con legislación específica propia.</strong></span></p>\r\n<p class=\"parrafo\">Las disposiciones de este Estatuto sólo se aplicarán directamente cuando así lo disponga su legislación específica al siguiente personal:</p>\r\n<p class=\"parrafo_2\">a) Personal funcionario de las Cortes Generales y de las Asambleas Legislativas de las Comunidades Autónomas.</p>\r\n<p class=\"parrafo\">b) Personal funcionario de los demás Órganos Constitucionales del Estado y de los Órganos Estatutarios de las Comunidades Autónomas.</p>\r\n<p class=\"parrafo\">c) Jueces, Magistrados, Fiscales y demás personal funcionario al servicio de la Administración de Justicia.</p>\r\n<p class=\"parrafo\">d) Personal militar de las Fuerzas Armadas.</p>\r\n<p class=\"parrafo\">e) Personal de las Fuerzas y Cuerpos de Seguridad.</p>\r\n<p class=\"parrafo\">f) Personal retribuido por arancel (notarios, registradores y corredores de comercio).</p>\r\n<p class=\"parrafo\">g) Personal del Centro Nacional de Inteligencia.</p>\r\n<p class=\"parrafo\">h) Personal del Banco de España y Fondos de Garantía de Depósitos en Entidades de Crédito.</p>",
+        "respuestas": [
+          {
+            "id": "43109",
+            "pregunta_id": "22427",
+            "respuesta": "Funcionarios eventuales.",
+            "correcta": "0"
+          },
+          {
+            "id": "43111",
+            "pregunta_id": "22427",
+            "respuesta": "Funcionarios interinos.",
+            "correcta": "0"
+          },
+          {
+            "id": "43110",
+            "pregunta_id": "22427",
+            "respuesta": "Funcionarios que cobran por arancel.",
+            "correcta": "1"
+          }
+        ]
+      },
+      {
+        "id": "22428",
+        "enunciado": "<p>Aquellos empleados públicos que ejercen funciones específicas de confianza o asesoramiento especial, son:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"articulo\"><span style=\"color: #ff0000;\"><strong>Artículo 12. Personal eventual.</strong></span></p>\n<p class=\"parrafo\">1. Es personal eventual el que, en virtud de nombramiento y con carácter no permanente, sólo realiza funciones expresamente calificadas como de confianza o asesoramiento especial, siendo retribuido con cargo a los créditos presupuestarios consignados para este fin.</p>\n<p class=\"parrafo\">2. Las leyes de Función Pública que se dicten en desarrollo de este Estatuto determinarán los órganos de gobierno de las Administraciones Públicas que podrán disponer de este tipo de personal. El número máximo se establecerá por los respectivos órganos de gobierno. Este número y las condiciones retributivas serán públicas.</p>\n<p class=\"parrafo\">3. El nombramiento y cese serán libres. El cese tendrá lugar, en todo caso, cuando se produzca el de la autoridad a la que se preste la función de confianza o asesoramiento.</p>\n<p class=\"parrafo\">4. La condición de personal eventual no podrá constituir mérito para el acceso a la Función Pública o para la promoción interna.</p>\n<p class=\"parrafo\">5. Al personal eventual le será aplicable, en lo que sea adecuado a la naturaleza de su condición, el régimen general de los funcionarios de carrera.</p>",
+        "respuestas": [
+          {
+            "id": "43112",
+            "pregunta_id": "22428",
+            "respuesta": "Personal eventual.",
+            "correcta": "1"
+          },
+          {
+            "id": "43113",
+            "pregunta_id": "22428",
+            "respuesta": "Funcionarios de hecho.",
+            "correcta": "0"
+          },
+          {
+            "id": "43114",
+            "pregunta_id": "22428",
+            "respuesta": "Funcionarios interinos.",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22429",
+        "enunciado": "<p>El ingreso del personal funcionario se realizará garantizando los principios de:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p class=\"documento-tit\">Real Decreto 364/1995, de 10 de marzo, por el que se aprueba el Reglamento General de Ingreso del Personal al servicio de la Administración general del Estado y de Provisión de Puestos de Trabajo y Promoción Profesional de los Funcionarios Civiles de la Administración general del Estado.</p>\r\n<p class=\"articulo\">Artículo 4. Sistemas selectivos.</p>\r\n<p class=\"parrafo\">1. El ingreso del personal funcionario se llevará a cabo a través de los sistemas de oposición, concurso oposición o concurso libres, en los que se garanticen, en todo caso, los principios de igualdad, mérito y capacidad, así como el de publicidad. La oposición será el sistema ordinario de ingreso, salvo cuando, por la naturaleza de las funciones a desempeñar, sea más adecuada la utilización del concurso-oposición y, excepcionalmente, del concurso.</p>",
+        "respuestas": [
+          {
+            "id": "43116",
+            "pregunta_id": "22429",
+            "respuesta": "igualdad, mérito, recomendación y publicidad",
+            "correcta": "0"
+          },
+          {
+            "id": "43117",
+            "pregunta_id": "22429",
+            "respuesta": "igualdad, mérito, capacidad y publicidad",
+            "correcta": "1"
+          },
+          {
+            "id": "43115",
+            "pregunta_id": "22429",
+            "respuesta": "igualdad, mérito, objetividad y publicidad",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22430",
+        "enunciado": "<p>Los efectos económicos plenos, para el funcionario de carrera, comienzan a producirse desde:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "",
+        "respuestas": [
+          {
+            "id": "43119",
+            "pregunta_id": "22430",
+            "respuesta": "Prestar el juramento o promesa legalmente establecida",
+            "correcta": "0"
+          },
+          {
+            "id": "43120",
+            "pregunta_id": "22430",
+            "respuesta": "Tomar posesión del cargo",
+            "correcta": "1"
+          },
+          {
+            "id": "43118",
+            "pregunta_id": "22430",
+            "respuesta": "Recibir el nombramiento de la autoridad competente",
+            "correcta": "0"
+          }
+        ]
+      },
+      {
+        "id": "22431",
+        "enunciado": "<p>El sistema de ingreso en la función pública que consiste en la comprobación y calificación de los méritos y el orden de prelación de los mismos, se conoce como:</p>",
+        "deshabilitada": "0",
+        "explicacion_respuesta": "<p>La oposición consiste en la celebración de una o más pruebas para determinar la capacidad y la aptitud de los aspirantes y fijar su orden de prelación; el concurso, en la comprobación y calificación de los méritos de los aspirantes y en el establecimiento del orden de prelación de los mismos, y el concurso-oposición, en la sucesiva celebración de los dos sistemas anteriores.</p>",
+        "respuestas": [
+          {
+            "id": "43122",
+            "pregunta_id": "22431",
+            "respuesta": "Oposición",
+            "correcta": "0"
+          },
+          {
+            "id": "43123",
+            "pregunta_id": "22431",
+            "respuesta": "Concurso",
+            "correcta": "1"
+          },
+          {
+            "id": "43121",
+            "pregunta_id": "22431",
+            "respuesta": "Libre designación",
+            "correcta": "0"
+          }
+        ]
+      }
+    ]
+  }
+}
