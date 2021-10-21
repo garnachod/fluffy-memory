@@ -16,6 +16,7 @@ class Home extends React.Component {
     const reader = new FileReader();
     reader.onload = async (e) => { 
       const text = (e.target.result);
+      
       this.setState({json: JSON.parse(text)});
     };
     reader.readAsText(event.target.files[0]);
@@ -23,10 +24,20 @@ class Home extends React.Component {
   getExam() {
     let questions = this.state.json["preguntas"];
     if (questions === undefined) {
-      questions = this.state.json.result?.["preguntas"];
+      if (this.state.json.result !== undefined) {
+        if (this.state.json.result["preguntas"] !== undefined) {
+          questions = this.state.json.result?.["preguntas"];
+        } else {
+          const result = JSON.parse(this.state.json.result);
+          console.log(result)
+          questions = result["questions"];
+          console.log(questions)
+        }
+      }
+      
     }
     const listItems = questions?.map((question) =>
-      <Question key={question.id} question={question}/>
+      <Question key={question.id || question.questionId} question={question}/>
     );
 
     return (

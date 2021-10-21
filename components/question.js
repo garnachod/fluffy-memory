@@ -15,9 +15,18 @@ class Question extends Component {
       });
     }
     getResponse() {
-        const listItems = this.props.question.respuestas.map((response) =>
-          <li key={response.id}><ResponseButton response={response} updateIsCorrect={this.updateIsCorrect}/></li>
+      let listItems
+      if (this.props.question.respuestas !== undefined) {
+        listItems = this.props.question.respuestas.map((response) =>
+          <li key={response.id || response.answerId}><ResponseButton response={response} updateIsCorrect={this.updateIsCorrect}/></li>
         );
+      } 
+      if (this.props.question.answers !== undefined) {
+        listItems = this.props.question.answers.map((response) =>
+          <li key={response.id || response.answerId}><ResponseButton response={response} updateIsCorrect={this.updateIsCorrect}/></li>
+        );
+      } 
+         
     
         return (
           <ul>{listItems}</ul>
@@ -27,7 +36,7 @@ class Question extends Component {
     renderExplain() {
       if (this.state.isCorrect) {
         return (<div className="explain">
-                <p dangerouslySetInnerHTML={{ __html: this.props.question.explicacion_respuesta }}>
+                <p dangerouslySetInnerHTML={{ __html: this.props.question.explicacion_respuesta  }}>
                 </p>
               </div>
         )}
@@ -36,7 +45,7 @@ class Question extends Component {
       
         return (
         <div className="question">
-            <p dangerouslySetInnerHTML={{ __html: this.props.question.enunciado }}>
+            <p dangerouslySetInnerHTML={{ __html: this.props.question.enunciado  || this.props.question.statement}}>
             </p>
             {this.renderExplain()}
             {this.getResponse()}

@@ -24,7 +24,7 @@ class ResponseButton extends Component {
     }
     render() {
         return (
-            <button type="button" className={this.getClass()} onClick={this.handleClick}>{this.props.response.respuesta}</button>
+            <button type="button" className={this.getClass()} onClick={this.handleClick}>{this.props.response.respuesta || this.props.response.answer}</button>
         )
     }
 }
